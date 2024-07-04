@@ -8,3 +8,4 @@ CSS
 JavaScript
 Usage
 This website serves as a portfolio to showcase my projects and skills. Feel free to explore the different sections to learn more about my work and experiences.
+https://main--resonant-shortbread-43204d.netlify.app/
